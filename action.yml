@@ -1,6 +1,6 @@
-name: 'aliyun-fc-action'
+name: 'Aliyun Function Compute Action'
 description: 'Aliyun Function Compute Action'
-author: 'Kimmy'
+author: 'kimmy214'
 inputs:
   milliseconds: # change this
     required: true
